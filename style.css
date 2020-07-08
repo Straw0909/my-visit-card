@@ -1,0 +1,122 @@
+
+body {
+	background-color: #f4f4f4;
+	color: #565252;
+	font-weight: 400;
+	font-size: 20px;
+}
+
+header {
+	background-image: url(images/header.jpg);
+	background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  height: 100vh;
+}
+
+.title2 {
+  max-width: 55%;
+	margin-left: 30%;
+	text-transform: uppercase;
+	color: #699cbc;
+	letter-spacing: 0.179487em;
+	font-weight: 400;
+  font-style: normal;
+  margin-top: 35px;
+  margin-bottom: 25px;
+  word-spacing: 10px;
+}
+.text {
+  color: #0e4a63;
+  text-align: center;
+}
+
+#main-nav {
+	float: left;
+  list-style: none;
+  margin-top: 55px;
+  margin-bottom: 150px;
+  
+}
+#main-nav li {
+	display: inline-block;
+	margin-left: 65px;
+  font-size: 0.8em;
+  letter-spacing: 0.179487em;
+}
+#main-nav li a:link,
+#main-nav li a:visited {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #235a72;
+	opacity: 0.5;
+	transition: background 0.5s;
+}
+#main-nav li a:hover,
+#main-nav li a:active {
+	opacity: 1;
+}
+
+#header-title {
+	max-width: 55%;
+	margin-left: 11%;
+	text-transform: uppercase;
+	color: #699cbc;
+	letter-spacing: 0.179487em;
+	font-size: 3.5vw;
+	line-height: 4.0vw;
+	font-weight: 400;
+	font-style: normal;
+}
+#header-text {
+  color: #0e4a63;
+  margin-right:150px;
+  float:right;
+  letter-spacing: 3px;
+  font-size: 20px;
+}
+
+#about h3 {
+  text-align: center;
+  letter-spacing: 0.179487em;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  color: #699cbc;
+}
+#about img {
+  border-radius: 50%;
+  margin-left: 45px;
+  margin-top: 200px;
+}
+#about h2 {
+  max-width: 55%;
+	margin-left: 40%;
+	text-transform: uppercase;
+	color: #699cbc;
+	letter-spacing: 0.179487em;
+	font-weight: 400;
+  font-style: normal;
+  margin-top: 80px;
+  margin-bottom: 25px;
+  word-spacing: 10px;
+}
+
+#item {
+  margin-top: 300px;
+  padding: 300,55,300,55:
+}
+#item img {
+  height: 80%;
+  width: 100%;
+}
+
+#contacts {
+  color: #699cbc;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+#contacts li {
+  list-style-type: none;
+}
+
